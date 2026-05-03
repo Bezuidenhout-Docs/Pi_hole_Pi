@@ -1,3 +1,11 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%203%20B-red)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-latest-green)
+![Unbound](https://img.shields.io/badge/Unbound-recursive%20DNS-orange)
+![Privacy](https://img.shields.io/badge/privacy-self--hosted-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 Project Overview
 This project transforms a low-power single-board computer into a powerful, network-wide ad-blocking and privacy-enhancing server. It combines Pi-hole, the industry-standard DNS sinkhole for ad blocking, with Unbound, a validating, recursive, caching DNS resolver. The result is a completely self-contained DNS system: your network resolves domain names from the internet's root servers directly, without relying on third-party providers like Google, Cloudflare, or your ISP. No external entity can build a profile of your household's internet activity.
 
